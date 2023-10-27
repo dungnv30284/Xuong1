@@ -18,6 +18,6 @@
     </form>
     <div class="mt-2 ">
         <h3 class="text-center text-[30px]">Or</h3>
-        <button class=" w-[100%] bg-blue-500 mt-3"><a href="" class="bg-blue-500  text-[20px] text-white">Sign Up</a></button>
+        <button class=" w-[100%] bg-blue-500 mt-3"><a href="index.php?url=signup" class="bg-blue-500  text-[20px] text-white">Sign Up</a></button>
     </div>
 </div>
